@@ -1,7 +1,5 @@
 # Emerging Technologies
 
-***
-
 Ian McLoughlin
 
 Little blurb about the project...
